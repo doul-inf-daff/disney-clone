@@ -8,10 +8,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-
 body {
   margin: 0;
+  background-color: #040714;
   color: white;
 }
 
